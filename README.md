@@ -18,7 +18,7 @@ Welcome to **Bitex**, your go-to digital food ordering app, crafted as an academ
 ## 🚀 Installation & Setup
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/bitex.git
+   git clone https://github.com/DipikaRawal/bitex.git
    cd bitex
    ```
 2. **Install Dependencies:**
@@ -41,10 +41,7 @@ Welcome to **Bitex**, your go-to digital food ordering app, crafted as an academ
 This project is for academic and educational purposes only.
 
 ## 👨‍💻 Contributors
-- **[Your Name]** – Developer & Maintainer
+- **[Dipika Rawal]** – Developer & Maintainer
 
 Feel free to fork, modify, and enhance **Bitex** for learning purposes. Happy coding! 🚀
-<<<<<<< HEAD
 
-=======
->>>>>>> 30674b5 (Initial commit: Added project files)
