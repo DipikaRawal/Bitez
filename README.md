@@ -44,4 +44,7 @@ This project is for academic and educational purposes only.
 - **[Your Name]** – Developer & Maintainer
 
 Feel free to fork, modify, and enhance **Bitex** for learning purposes. Happy coding! 🚀
+<<<<<<< HEAD
 
+=======
+>>>>>>> 30674b5 (Initial commit: Added project files)
