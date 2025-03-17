@@ -1,6 +1,6 @@
-# Bitex - Digital Food Ordering App 🍔🍕
+# Bitez - Digital Food Ordering App 🍔🍕
 
-Welcome to **Bitex**, your go-to digital food ordering app, crafted as an academic project to simulate the best features of industry leaders like **Zomato** and **Swiggy**. While it's not for real-world use, **Bitex** allows users to explore the world of food tech innovation through a seamless, interactive platform.
+Welcome to **Bitez**, your go-to digital food ordering app, crafted as an academic project to simulate the best features of industry leaders like **Zomato** and **Swiggy**. While it's not for real-world use, **Bitex** allows users to explore the world of food tech innovation through a seamless, interactive platform.
 
 ## 📌 Features
 - **Browse Local Restaurants** – Explore a variety of food options from different cuisines.
